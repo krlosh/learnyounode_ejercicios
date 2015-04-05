@@ -21,4 +21,4 @@ Ejecutar tutorial learnyounode (Una vez instalado con npm)
 * Ejercicio 10: Time server (Trabajo a bajo nivel con tcp y formateo de fechas con strftime)
 * Ejercicio 11: Creación de un http server que devuelve siempre el mismo fichero. (Intersante el uso de los streams para enlazar con pipe una lectura con una escritura)
 * Ejercicio 12: Crear un http server para convertir peticiones post en mayusculas (Interesante el uso de streams y la utilidad though2-map)
-* Ejercicio 13: 
+* Ejercicio 13: Crear un http server que convierte devuelve en json los devolviendo un tipo de conversion en función del servicio a que se invoque (Interesante conversiónde Date y uso de url parse)
