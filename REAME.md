@@ -14,3 +14,5 @@ Ejercicio 4: ContarLineas fichero (Uso de librería FileSystem[fs] operaciones a
 Ejercicio 5: Ls filtrado (USo de filesystem y path. Ojo con foreach e ===)
 Ejercicio 6: LS filtrado modular (Introducción a los módulos, que se exportan con module.export ¿Qué hacer para exportar más de una funcion?)
 Ejercicio 7: Cliente http. (Uso de api http. Interesante como escuchar los eventos que provoca response)
+Ejercicio 8: Cliente http acumulativo (uso de liberías bl, pero no he conseguido que funcione la importación de bl -> Estaba mal instalado y por eso no lo encontraba. Instalándolo con npm install bl estando en el directorio "." si que funciona)
+Ejercicio 9: Recolector de peticiones que cuando acaben todas las muestre en orden en que se pidieron (OJO Vigilar orden)
